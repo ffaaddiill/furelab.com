@@ -1,0 +1,42 @@
+.elementor-136 .elementor-element.elementor-element-499bd15{padding:145px 35px 250px 35px;}.elementor-136 .elementor-element.elementor-element-35b1a60.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-136 .elementor-element.elementor-element-35b1a60 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-136 .elementor-element.elementor-element-3ab3978{padding:0px 0px 30px 0px;}.elementor-bc-flex-widget .elementor-136 .elementor-element.elementor-element-01f6769.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-136 .elementor-element.elementor-element-01f6769.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-136 .elementor-element.elementor-element-01f6769.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-136 .elementor-element.elementor-element-059c2e3{--divider-border-style:solid;--divider-color:var( --e-global-color-secondary );--divider-border-width:2px;width:auto;max-width:auto;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-136 .elementor-element.elementor-element-059c2e3 .elementor-divider-separator{width:70px;}.elementor-136 .elementor-element.elementor-element-059c2e3 .elementor-divider{padding-top:0px;padding-bottom:0px;}.elementor-136 .elementor-element.elementor-element-aea5eb4 .elementor-heading-title{color:var( --e-global-color-secondary );font-size:24px;font-weight:500;text-transform:uppercase;}.elementor-136 .elementor-element.elementor-element-aea5eb4 > .elementor-widget-container{padding:0px 0px 0px 20px;}.elementor-136 .elementor-element.elementor-element-aea5eb4{width:auto;max-width:auto;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-136 .elementor-element.elementor-element-101c0b9{text-align:center;animation-duration:1500ms;animation-delay:250ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-136 .elementor-element.elementor-element-101c0b9 .elementor-heading-title{color:var( --e-global-color-primary );font-size:53px;font-weight:bold;}.elementor-136 .elementor-element.elementor-element-101c0b9 > .elementor-widget-container{padding:0px 0px 50px 0px;}.elementor-136 .elementor-element.elementor-element-ebc211e .aux-filters li > a > span{padding:0px 0px 0px 0px !important;}.elementor-136 .elementor-element.elementor-element-ebc211e .aux-media-image{border-radius:10px 10px 10px 10px !important;}.elementor-136 .elementor-element.elementor-element-ebc211e .entry-header .entry-title a{color:var( --e-global-color-primary );font-size:22px;font-weight:bold;text-transform:uppercase;}.elementor-136 .elementor-element.elementor-element-ebc211e .entry-tax a{color:var( --e-global-color-secondary );}.elementor-136 .elementor-element.elementor-element-ebc211e .entry-tax{font-size:15px;font-weight:500;text-transform:uppercase;font-style:normal;line-height:1em;margin-bottom:0px;}.elementor-136 .elementor-element.elementor-element-ebc211e .entry-main{padding:5px 20px 20px 30px !important;background-color:var( --e-global-color-b372dcf );}.elementor-136 .elementor-element.elementor-element-ebc211e .aux-iso-item{margin-bottom:0px !important;}.elementor-136 .elementor-element.elementor-element-ebc211e{animation-duration:1500ms;animation-delay:750ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-136 .elementor-element.elementor-element-499bd15{padding:100px 35px 200px 35px;}.elementor-136 .elementor-element.elementor-element-3ab3978{padding:0px 0px 10px 0px;}.elementor-136 .elementor-element.elementor-element-059c2e3 .elementor-divider-separator{width:40px;}.elementor-136 .elementor-element.elementor-element-aea5eb4 .elementor-heading-title{font-size:20px;}.elementor-136 .elementor-element.elementor-element-101c0b9 .elementor-heading-title{font-size:45px;}.elementor-136 .elementor-element.elementor-element-101c0b9 > .elementor-widget-container{padding:0px 0px 30px 0px;}.elementor-136 .elementor-element.elementor-element-ebc211e .entry-header .entry-title a{font-size:18px;}}@media(max-width:767px){.elementor-136 .elementor-element.elementor-element-059c2e3 .elementor-divider-separator{width:40px;}.elementor-136 .elementor-element.elementor-element-aea5eb4 .elementor-heading-title{font-size:20px;}.elementor-136 .elementor-element.elementor-element-101c0b9 .elementor-heading-title{font-size:32px;line-height:1.3em;}.elementor-136 .elementor-element.elementor-element-ebc211e .entry-header .entry-title a{font-size:18px;}}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-ebc211e */.elementor-136 .elementor-element.elementor-element-ebc211e .entry-main {
+    position: absolute;
+    width: 86%;
+    bottom: 30px;
+    margin: 0 7%;
+    border-radius: 10px;
+    display: grid;
+    opacity:0;
+    transition: all 250ms ease-in;
+}
+.elementor-136 .elementor-element.elementor-element-ebc211e .aux-iso-item:hover .entry-main {
+    opacity:1;
+}
+.elementor-136 .elementor-element.elementor-element-ebc211e .count-box{
+    display: none;
+}
+.elementor-136 .elementor-element.elementor-element-ebc211e .entry-header{
+    order:1;
+}
+.elementor-136 .elementor-element.elementor-element-ebc211e .hentry .entry-header{
+    margin: 0!important;
+}
+.elementor-136 .elementor-element.elementor-element-ebc211e .entry-title {
+    margin-top: -18px;
+}
+.elementor-136 .elementor-element.elementor-element-ebc211e .entry-media{
+    margin-bottom: 6px;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-136 .elementor-element.elementor-element-ebc211e .entry-header .entry-title a{
+        font-size:18px !important;
+    }
+}
+@media screen and (max-width:900px) and (min-width:768px){
+    .elementor-136 .elementor-element.elementor-element-ebc211e .entry-header .entry-title a{
+        font-size:15px !important;
+    }
+    .elementor-136 .elementor-element.elementor-element-ebc211e .entry-main{
+        bottom:20px !important;
+        padding: 5px 10px 15px 10px !important;
+    }
+}/* End custom CSS */

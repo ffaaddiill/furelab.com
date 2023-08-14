@@ -1,0 +1,116 @@
+/* ==============================================================================
+Theme Name: Phlox Pro Child
+Theme URI: http://phlox.pro/go/
+Author: averta
+Author URI: http://www.phlox.pro
+Description: Phlox Pro Child Theme
+Template: phlox-pro
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column,two-columns, three-columns, left-sidebar, right-sidebar
+Text Domain: phlox-pro-child
+================================================================================= */
+/* CSS HEX */
+:root {
+	--furelab-davys-gray: #525B5Dff;
+	--furelab-khaki: #BFB79Eff;
+	--furelab-davys-gray-2: #5F5F61ff;
+	--furelab-white: #FFFFFFff;
+	--furelab-jet: #2E2E2Eff;
+	--furelab-alloy-orange: #BF6314ff;
+	--furelab-ochre: #DE7B24ff;
+	--furelab-white-2: #FEFEFEff;
+	--furelab-verdigris: #37A7A7ff;
+	--furelab-dark-cyan: #039595ff;
+	--furelab-safety-orange: #e47716;
+	--furelab-giants-orange: #ff581c;
+}
+
+#site-elementor-header .aux-header section.elementor-top-section {
+	background-color: #fff !important;
+	border-bottom: 2px solid var(--furelab-dark-cyan);
+}
+header.aux-elementor-header .elementor-section.elementor-top-section.elementor-element.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+	padding: 15px 35px 15px 35px !important;
+}
+
+.aux-menu-label {
+    border-color: var(--e-global-color-secondary );
+    color: var(--e-global-color-secondary );
+    fill: var(--e-global-color-secondary );
+    font-size: 16px;
+}
+.aux-menu-label:hover, .aux-menu-label:active {
+	color: var(--furelab-dark-cyan);
+}
+.aux-elementor-header-menu .aux-nav-menu-element .aux-nav-menu-element-345ddb7 {
+	background-color: var(--furelab-safety-orange);
+}
+
+.elementor-icon-box-title, .elementor-icon-box-description {
+	color: var(--furelab-dark-cyan) !important;
+}
+
+.elementor-146 .elementor-element.elementor-element-64e5cd4:not(.elementor-motion-effects-element-type-background), .elementor-146 .elementor-element.elementor-element-64e5cd4 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+	background-color: var(--furelab-dark-cyan);
+}
+.elementor-146 .elementor-element.elementor-element-6bab03c .elementor-heading-title {
+	color: var(--furelab-giants-orange);
+	text-shadow: 1px 1px rgba(0,0,0,.3);
+}
+
+.elementor-146 .elementor-element.elementor-element-8f2cc5a .elementor-counter-title {
+	text-shadow: 1px 1px rgba(0,0,0,.3);
+}
+
+#site-elementor-header .elementor-element.elementor-widget-aux_menu_box {
+	/*display: flex;
+	justify-content: center;*/
+}
+ #site-elementor-header .elementor-element > .elementor-widget-container {
+	/*padding: 0 !important;*/
+}
+
+/*.aux-modern-heading-primary {
+	color: var(--furelab-dark-cyan) !important;
+}*/
+
+article#post-146 .elementor-icon-box-title, article#post-146 .elementor-icon-box-description {
+	color: var(--furelab-giants-orange) !important;
+	text-shadow: 1px 1px rgba(0,0,0,.3);
+}
+
+article#post-146 .elementor-146 .elementor-element.elementor-element-44a6b3d > .elementor-widget-container {
+	background-color: var(--furelab-dark-cyan);
+}
+
+/* ABOUT PAGE */
+#main .aux-wrapper .aux-container #primary .content article#post-128 .elementor-section.elementor-top-section.elementor-element.elementor-element-6addac4.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+	padding: 0 35px 160px 35px;
+}
+section .aux-parallax-section.aux-aboutus {
+	background-color: var(--furelab-dark-cyan);
+    padding: 3em 1em 2em 2em;
+}
+section .aux-parallax-section.aux-aboutus h2.elementor-heading-title {
+	color: #fff !important;
+}
+.aux-aboutus section {
+	padding-bottom: 2em !important;
+}
+article#post-128 section .aux-parallax-section.elementor-column.elementor-col-50.elementor-top-column.elementor-element.elementor-element-36facb3.aux-text {
+	padding-top: 3em;
+}
+
+/* PROJECT PAGE */
+article#post-136 section.elementor-section.elementor-top-section.elementor-element.elementor-element-499bd15.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+	/*background-color: var(--furelab-dark-cyan);*/
+	padding-top: 5em;
+}
+
+/* FOOTER */
+.elementor-123 .elementor-element.elementor-element-9b22c92 > .elementor-widget-container .aux-logo-anchor.aux-has-logo {
+	background-color: #fff;
+	padding: 0.4em;
+}
